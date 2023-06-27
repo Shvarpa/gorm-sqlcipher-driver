@@ -8,7 +8,7 @@ import (
 
 	"gorm.io/gorm/callbacks"
 
-	_ "github.com/mattn/go-sqlite3"
+	_ "github.com/Shvarpa/go-sqlcipher/v4"
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"
 	"gorm.io/gorm/logger"

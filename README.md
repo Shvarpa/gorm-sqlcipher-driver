@@ -1,12 +1,10 @@
-# GORM Sqlite Driver
-
-![CI](https://github.com/go-gorm/sqlite/workflows/CI/badge.svg)
+# GORM sqlcipher driver
 
 ## USAGE
 
 ```go
 import (
-  "gorm.io/driver/sqlite"
+  "github.com/Shvarpa/gorm-sqlcipher-driver"
   "gorm.io/gorm"
 )
 
