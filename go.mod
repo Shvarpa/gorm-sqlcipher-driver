@@ -3,7 +3,7 @@ module github.com/Shvarpa/gorm-sqlcipher-driver
 go 1.20
 
 require (
-	github.com/Shvarpa/go-sqlcipher/v4 v4.5.4-alpha6
+	github.com/Shvarpa/go-sqlcipher/v4 v4.5.4-alpha7
 	gorm.io/gorm v1.25.2-0.20230530020048-26663ab9bf55
 )
 
