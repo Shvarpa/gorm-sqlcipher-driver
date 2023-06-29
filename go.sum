@@ -1,5 +1,5 @@
-github.com/Shvarpa/go-sqlcipher/v4 v4.5.4-alpha5 h1:gBeiZw11/gTZEbWn+TXlZUqjNfk58xKlltwnhbYc3Mk=
-github.com/Shvarpa/go-sqlcipher/v4 v4.5.4-alpha5/go.mod h1:IwOW6HTWnbON+oAL9kOBD+Vlthw1dzzhRspL8JXVF+k=
+github.com/Shvarpa/go-sqlcipher/v4 v4.5.4-alpha6 h1:iTH8AO3m9fFTDxxNpp/XfBDfjJK1tpxlclNFFLjoTN8=
+github.com/Shvarpa/go-sqlcipher/v4 v4.5.4-alpha6/go.mod h1:IwOW6HTWnbON+oAL9kOBD+Vlthw1dzzhRspL8JXVF+k=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
